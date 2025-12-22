@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
