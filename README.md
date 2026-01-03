@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
