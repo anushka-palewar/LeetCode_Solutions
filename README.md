@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Matrix
+|  |
+| ------- |
+| [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
