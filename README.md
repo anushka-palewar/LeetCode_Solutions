@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
