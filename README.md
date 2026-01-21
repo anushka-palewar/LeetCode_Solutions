@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
