@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
