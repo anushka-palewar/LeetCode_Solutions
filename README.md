@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
