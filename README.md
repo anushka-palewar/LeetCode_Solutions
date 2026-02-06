@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
