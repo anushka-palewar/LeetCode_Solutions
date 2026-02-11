@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2653-sliding-subarray-beauty) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## String
