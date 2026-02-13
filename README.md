@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
