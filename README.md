@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 ## Stack
