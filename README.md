@@ -288,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
