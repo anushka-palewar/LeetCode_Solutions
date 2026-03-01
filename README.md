@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
