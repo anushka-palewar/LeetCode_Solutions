@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
