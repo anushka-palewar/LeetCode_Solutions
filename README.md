@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0177-nth-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
