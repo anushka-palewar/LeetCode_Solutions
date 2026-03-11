@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
