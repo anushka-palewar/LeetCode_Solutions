@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [3713-longest-balanced-substring-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
