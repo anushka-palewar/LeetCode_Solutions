@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
