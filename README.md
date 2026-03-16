@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
