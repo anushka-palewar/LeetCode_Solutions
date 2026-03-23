@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -331,16 +332,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Database
 | Problem Name | Difficulty |
