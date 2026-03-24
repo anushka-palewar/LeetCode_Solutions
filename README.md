@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Database
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
