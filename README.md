@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
