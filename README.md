@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0031-next-permutation) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
