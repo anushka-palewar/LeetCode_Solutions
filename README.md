@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3794-reverse-string-prefix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
