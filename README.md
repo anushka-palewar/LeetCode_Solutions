@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Breadth-First Search
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
