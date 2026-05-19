@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Hash Function
