@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
