@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
