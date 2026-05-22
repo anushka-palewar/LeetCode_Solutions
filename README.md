@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0064-minimum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
