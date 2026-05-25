@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
