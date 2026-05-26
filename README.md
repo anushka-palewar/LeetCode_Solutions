@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
