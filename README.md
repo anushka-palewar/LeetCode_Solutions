@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
