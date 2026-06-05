@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
