@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0148-sort-list) |
