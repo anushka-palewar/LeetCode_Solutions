@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
