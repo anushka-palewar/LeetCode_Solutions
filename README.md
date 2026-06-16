@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0115-distinct-subsequences](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
