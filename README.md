@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
