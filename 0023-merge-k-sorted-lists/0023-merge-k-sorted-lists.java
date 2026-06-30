@@ -10,31 +10,26 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        int n=lists.length;
-        if(n==0) return null;
-        return partitionAndMerge(0,n-1,lists);
-    }
-    private ListNode merge(ListNode l1,ListNode l2){
-        if(l1==null) return l2;
-        if(l2==null) return l1;
+        PriorityQueue<ListNode> pq=new PriorityQueue<>(
+            (a,b)->a.val-b.val
+        ); //min heap
 
-        if(l1.val<l2.val){
-            l1.next=merge(l1.next,l2);
-            return l1;
-        }else{
-            l2.next=merge(l1,l2.next);
-            return l2;
+        ListNode dummy=new ListNode(-1);
+        ListNode temp=dummy;
+
+        for(ListNode list:lists) {
+            if(list!=null)  pq.offer(list);
         }
-    }
 
-    ListNode partitionAndMerge(int s,int e,ListNode[] lists){
-        if(s==e) return lists[s];
-        if(s>e) return null;
+        while(!pq.isEmpty()){
+            ListNode smallest=pq.poll();
 
-        int m=s+(e-s)/2;
-        ListNode l1=partitionAndMerge(s,m,lists);
-        ListNode l2=partitionAndMerge(m+1,e,lists);
+            temp.next=smallest;
+            temp=temp.next;
 
-        return merge(l1,l2);
+            if(smallest.next!=null) pq.add(smallest.next);
+        }
+
+        return dummy.next;
     }
 }
