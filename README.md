@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
