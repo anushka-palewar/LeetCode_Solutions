@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
