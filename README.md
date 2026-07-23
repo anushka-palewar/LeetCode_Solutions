@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2653-sliding-subarray-beauty) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
