@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
