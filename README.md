@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0695-max-area-of-island](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
@@ -647,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
