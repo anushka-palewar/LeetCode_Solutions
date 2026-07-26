@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [1572-matrix-diagonal-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Stack
 |  |
 | ------- |
