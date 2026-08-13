@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
