@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -715,4 +717,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
