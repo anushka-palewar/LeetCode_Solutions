@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2653-sliding-subarray-beauty) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3174-clear-digits](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/1668-maximum-repeating-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
