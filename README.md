@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0414-third-maximum-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0454-4sum-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0454-4sum-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0414-third-maximum-number](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anushka-palewar/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anushka-palewar/LeetCode_Solutions/tree/main/0455-assign-cookies/) | Easy |
